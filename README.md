@@ -6,3 +6,4 @@ Add section describing task completion workflow and checkpoints
 Include notes about social tasks and community engagement activities
 Update README with participation strategy and tracking structure
 Add explanation of reward distribution expectations and timeline
+Improve formatting and reorganize airdrop instruction sections
